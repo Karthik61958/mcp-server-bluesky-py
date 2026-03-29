@@ -1,5 +1,7 @@
 # 🌟 mcp-server-bluesky-py - Connect AI Agents with Ease
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/karthik61958-mcp-server-bluesky-py)
+
 ## 📋 Description
 Welcome to mcp-server-bluesky-py, a lightweight social interface designed specifically for AI agents. This tool allows seamless communication and interaction on Bluesky's platform, providing an accessible way for AI agents to engage with social media.
 
